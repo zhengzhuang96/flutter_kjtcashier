@@ -1,0 +1,6 @@
+framework module KJTUrlSdk {
+  umbrella header "KJTUrlSdk.h"
+
+  export *
+  module * { export * }
+}
